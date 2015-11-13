@@ -11,7 +11,8 @@ Operating Manual
 * [How we support our companies](#how-we-support-our-companies)
 * [Finding us](#finding-us)
 
-
+## Our Purpose
+We invest in companies that make work better.
 
 ## Our investor, Bloomberg L.P.
 
@@ -93,23 +94,19 @@ We keep track of companies we’ve been in touch with -- just like we’d hope t
 
 Our overall focus is investing in companies that improve work -- these can be individual-facing (not all “enterprise”) so long as they help a person be more productive, knowledgeable, or content at work. Of course they can also be services for businesses.
 
-We are focused on the following areas (all of which are of great interest to Bloomberg L.P.): machine intelligence (see more [here](http://www.shivonzilis.com/machineintelligence)), data, technology platforms, media distribution, content discovery, networks & communities, human-computer interaction, and radically new organizational models. It’s a wide range.
+We think about our investment focus in three ways: functions, trends and verticals. Since we invest to make work better, we can invest in companies that are changing the way functional departments within business works (e.g. Terbium and security, Pathgather and corporate training). We can also invest in companies that are innovating within specific verticals, like financial services (Context Relevant) or global trade (Flexport). Finally, we can invest in companies that commercialize technological trends affecting work, like machine intelligence (Orbital Insights) or platformization (Howdy). Often our portfolio companies will span multiple trends, like a machine intelligence company like Textio remaking HR, or a platform company like Gigster changing engineering. 
 
-We avoid investments in financial services or other companies that intend to compete with Bloomberg clients.
++ Functions: (hr, security, finance, marketing, sales, operations
++ Trends: big data, machine intelligence, cryptography, consumerization of IT, platformization
++ Verticals: industrials, media, logistics, agriculture, technology, education
 
-We have doubts about the importance of overly theme-based investing (i.e., some of us are more thesis focused, some more founder focused). We’ve found that the best founders can surprise an investor with a completely unexpected take -- and prompt the investor to see a category anew.
+We have a particular focus on machine intelligence, because we believe it has the potential to completely remake our idea of work. Machine intelligence is a way to describe the idea of getting computers to act without being explicitly programmed. Since the explosion of big data, companies have been in a race to use machine intelligence to generate insights from this mountain of data. Big data is the what, machine intelligence is the how. 
 
-That said, within our themes there are specific ideas we currently care about:
-* [Machine intelligence](http://www.shivonzilis.com/machineintelligence): Artificial intelligence and machine learning technologies, including both core technologies and industry applications
-* Networks and communities: Connecting professional networks other than office workers (especially those where most of the work is in mobile contexts)
-* New organizational models: Bringing software development methodologies to other applications (e.g., version control for the real world); design as a differentiator; unbundling of corporations
-* Human-computer interaction: Hardware companies with network effects
-* Media distribution: Over-the-top television
-* Content discovery: Self-development through professional skill development
-* Technology platforms: Exploiting the increasing power of the browser, and WebRTC in particular; exploring companion businesses to open source software
-* Data: Vertical applications and analytical tools that affect business decisions
+At its core, machine intelligence makes humans more productive by helping people make better decisions, and it has the potential to disrupt every department of every company in every industry. It’s winning businesses will become bigger outliers, and faster. We foresee a future where machine intelligence becomes a utility that companies can tap into on-demand to power their most important processes. Our job is to help usher this reality into existence.
 
 We find it hard to imagine we’d make an investment in e-commerce or entertainment, and there are a few other areas that intersect with the future of work where we've learned we know too little to be confident (retail, travel, local, and medical services for example).
+
+We avoid investments in financial services or other companies that intend to compete with Bloomberg clients.
 
 ### “The Deck”
 
